@@ -67,10 +67,10 @@ monthcalendar/
 
 Below are some screenshots demonstrating the program in action:
 
-![Example 1](docs/screenshots/monthcalendar_example_01.png)
-![Example 2](docs/screenshots/monthcalendar_example_02.png)
-![Example 3](docs/screenshots/monthcalendar_example_03.png)
-![Example 4](docs/screenshots/monthcalendar_example_04.png)
+![Example 1](screenshots/monthcalendar_example_01.png)
+![Example 2](screenshots/monthcalendar_example_02.png)
+![Example 3](screenshots/monthcalendar_example_03.png)
+![Example 4](screenshots/monthcalendar_example_04.png)
 
 
 
